@@ -42,6 +42,12 @@ This dashboard helps convert raw sales data into business insights that can supp
 
 ---
 
+## Report
+
+[View Executive Summary](report/Executive_Summary_PowerBI.pdf)
+
+---
+
 ## Tools Used
 
 - Microsoft Power BI Desktop
@@ -123,6 +129,7 @@ Business-Performance-Dashboard-PowerBI
 │   └── PowerBI_Dashboard.png
 │
 ├── report
+│   └── Executive_Summary_PowerBI.pdf
 │
 ├── README.md
 └── LICENSE
